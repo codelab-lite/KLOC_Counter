@@ -1,0 +1,269 @@
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\KLOCCounter.exe.config
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\KLOCCounter.exe
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\KLOCCounter.pdb
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\MainWindow.baml
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\MainWindow.g.cs
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\App.g.cs
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.cache
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.g.resources
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.Properties.Resources.resources
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.csproj.GenerateResource.Cache
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.exe
+c:\users\1025867\documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.pdb
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.lref
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter_Content.g.cs
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Compilers.CSharp.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Compilers.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Services.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Utilities.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\WpfAnimatedGif.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\WPFToolkit.dll
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.xml
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\1025867\Documents\visual studio 2013\Projects\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\MainWindow.g.cs
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\App.g.cs
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter_Content.g.cs
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.cache
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.lref
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\KLOCCounter.exe.config
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\KLOCCounter.exe
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\KLOCCounter.pdb
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Compilers.CSharp.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Compilers.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Services.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Roslyn.Utilities.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\WpfAnimatedGif.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\WPFToolkit.dll
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.xml
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\MainWindow.baml
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.g.resources
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.Properties.Resources.resources
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.csproj.GenerateResource.Cache
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.exe
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.pdb
+D:\Projects\KLOC\KLOCCounter\KLOCCounter\obj\Debug\KLOCCounter.csprojResolveAssemblyReference.cache
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.exe.config
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.exe.manifest
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.application
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.exe
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.pdb
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Compilers.CSharp.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Compilers.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Services.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Utilities.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\WpfAnimatedGif.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\WPFToolkit.dll
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.xml
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\Resources\Styles\CustomStyle.baml
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\App.baml
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\MainWindow.g.cs
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\App.g.cs
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.cache
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.lref
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\MainWindow.baml
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.g.resources
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.Properties.Resources.resources
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.csproj.GenerateResource.Cache
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.csproj.CoreCompileInputs.cache
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.exe.manifest
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.application
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.exe
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.pdb
+D:\Projects\KLOC\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.csprojResolveAssemblyReference.cache
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.exe.config
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.exe.manifest
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.application
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.exe
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\KLOCCounter.pdb
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Compilers.CSharp.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Compilers.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Services.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Roslyn.Utilities.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\System.Windows.Interactivity.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\WpfAnimatedGif.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\WPFToolkit.dll
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.xml
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.csprojResolveAssemblyReference.cache
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\Resources\Styles\CustomStyle.baml
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\App.baml
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\MainWindow.g.cs
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\App.g.cs
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.cache
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.lref
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\MainWindow.baml
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.g.resources
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.Properties.Resources.resources
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.csproj.GenerateResource.Cache
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.csproj.CoreCompileInputs.cache
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.exe.manifest
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.application
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.exe
+D:\Sharing\HHT Tools\KLOC Counter\Source\KLOCCounter 2\KLOCCounter\obj\Debug\KLOCCounter.pdb
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\KLOCCounter.exe.config
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\KLOCCounter.exe.manifest
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\KLOCCounter.application
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\KLOCCounter.exe
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\KLOCCounter.pdb
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Caliburn.Micro.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Roslyn.Compilers.CSharp.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Roslyn.Compilers.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Roslyn.Services.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Roslyn.Utilities.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\WpfAnimatedGif.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\WPFToolkit.dll
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Caliburn.Micro.xml
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.csprojAssemblyReference.cache
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\Resources\Styles\CustomStyle.baml
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\App.baml
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\MainWindow.g.cs
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\App.g.cs
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.cache
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.lref
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\MainWindow.baml
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.g.resources
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.Properties.Resources.resources
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.csproj.GenerateResource.cache
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.csproj.CoreCompileInputs.cache
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.exe.manifest
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.application
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.csproj.CopyComplete
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.exe
+D:\Projects\KLOC\KLOCCounter 3\KLOCCounter\obj\Debug\KLOCCounter.pdb
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.csprojAssemblyReference.cache
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\App.baml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\App.g.cs
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.cache
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.exe
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.pdb
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\KLOCCounter.exe.config
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\KLOCCounter.exe.manifest
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\KLOCCounter.application
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\KLOCCounter.exe
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\KLOCCounter.pdb
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Caliburn.Micro.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Roslyn.Compilers.CSharp.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Roslyn.Compilers.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Roslyn.Services.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Roslyn.Utilities.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\WpfAnimatedGif.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\WPFToolkit.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.Controls.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.1.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.2.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.3.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.4.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.5.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.Views3D.v7.0.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Caliburn.Micro.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\WpfAnimatedGif.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.Controls.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.1.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.2.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.3.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.4.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.ThemePack.5.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.Views3D.v7.0.xml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.Controls.v7.0.XmlSerializers.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\bin\Debug\Xceed.Wpf.DataGrid.v7.0.XmlSerializers.dll
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\Resources\Styles\CustomStyle.baml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\MainWindow.g.cs
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.lref
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\MainWindow.baml
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.g.resources
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.Properties.Resources.resources
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.csproj.GenerateResource.cache
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.exe.manifest
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.application
+C:\Users\vinor\Documents\foo 1\sharing 1\KLOCCounter\obj\Debug\KLOCCounter.csproj.CopyComplete
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\KLOCCounter.exe.config
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\KLOCCounter.exe.manifest
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\KLOCCounter.application
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\KLOCCounter.exe
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\KLOCCounter.pdb
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\Dragablz.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\MaterialDesignColors.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\Roslyn.Compilers.CSharp.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\Roslyn.Compilers.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\Roslyn.Services.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\Roslyn.Utilities.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\WpfAnimatedGif.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\WPFToolkit.dll
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\Dragablz.pdb
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\Dragablz.xml
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\MaterialDesignColors.pdb
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\WpfAnimatedGif.pdb
+E:\Working Dir\KLOC\KLOCCounter\bin\Debug\WpfAnimatedGif.xml
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\App.baml
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\MainWindow.g.cs
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\StartupWindow.g.cs
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\App.g.cs
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter_Content.g.cs
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.cache
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter_MarkupCompile.lref
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\Resources\Styles\CustomStyle.baml
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\MainWindow.baml
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\StartupWindow.baml
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.g.resources
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.Properties.Resources.resources
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.csproj.GenerateResource.cache
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.exe.manifest
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.application
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.csproj.CopyComplete
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.exe
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.pdb
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.csprojAssemblyReference.cache
+E:\Working Dir\KLOC\KLOCCounter\obj\Debug\KLOCCounter.csproj.CoreCompileInputs.cache

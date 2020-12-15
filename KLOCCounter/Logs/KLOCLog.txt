@@ -1,0 +1,1543 @@
+Report Generation Started 06-40-2020 01.40.42
+Download Completed 06-44-2020 01.44.21
+Report Generation Ended 06-44-2020 01.44.21
+Report Generation Started 07-39-2020 02.39.41
+The calling thread cannot access this object because a different thread owns it. 07-39-2020 02.39.54
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.DependencyObject.SetValue(DependencyProperty dp, Object value)
+   at System.Windows.Controls.Primitives.RangeBase.set_Value(Double value)
+   at KLOCCounter.MainWindow.PrepareKLOCReport(Workbook workbook, String sheetName, String reason) in E:\Working Dir\KLOC\KLOCCounter\MainWindow.xaml.cs:line 517 07-39-2020 02.39.54
+Couldn't find your folder !  07-39-2020 02.39.54
+Couldn't find your folder !  07-39-2020 02.39.54
+   at KLOCCounter.MainWindow.PrepareKLOCReport(Workbook workbook, String sheetName, String reason) in E:\Working Dir\KLOC\KLOCCounter\MainWindow.xaml.cs:line 554
+   at KLOCCounter.MainWindow.DeliveryListGeneration() in E:\Working Dir\KLOC\KLOCCounter\MainWindow.xaml.cs:line 412 07-39-2020 02.39.54
+Report Generation Ended 07-39-2020 02.39.58
+Report Generation Started 07-41-2020 02.41.01
+Report Generation Started 07-46-2020 02.46.53
+Report Generation Started 07-50-2020 02.50.13
+Report Generation Started 07-52-2020 02.52.18
+Report Generation Started 07-56-2020 02.56.41
+Download Completed 07-00-2020 03.00.36
+Report Generation Ended 07-00-2020 03.00.36
+Report Generation Started 07-06-2020 03.06.22
+Report Generation Started 07-11-2020 03.11.09
+Download Cancelled 07-11-2020 03.11.52
+Report Generation Ended 07-11-2020 03.11.52
+Report Generation Started 07-13-2020 03.13.17
+Download Cancelled 07-14-2020 03.14.02
+Report Generation Ended 07-14-2020 03.14.02
+Report Generation Started 07-18-2020 03.18.00
+Download Cancelled 07-18-2020 03.18.34
+Report Generation Started 07-20-2020 03.20.33
+Download Cancelled 07-21-2020 03.21.06
+Report Generation Ended 07-21-2020 03.21.14
+Report Generation Started 07-21-2020 03.21.43
+Download Completed 07-22-2020 03.22.16
+Report Generation Ended 07-22-2020 03.22.20
+The remote procedure call failed. (Exception from HRESULT: 0x800706BE) 07-22-2020 03.22.53
+   at Microsoft.Office.Interop.Excel._Workbook.Close(Object SaveChanges, Object Filename, Object RouteWorkbook)
+   at KLOCCounter.MainWindow.DeliveryListGeneration() in E:\Working Dir\KLOC\KLOCCounter\MainWindow.xaml.cs:line 448 07-22-2020 03.22.53
+Report Generation Started 07-22-2020 03.22.59
+Download Cancelled 07-23-2020 03.23.33
+Report Generation Ended 07-23-2020 03.23.39
+Report Generation Started 07-24-2020 03.24.45
+Download Completed 07-25-2020 03.25.20
+Report Generation Ended 07-25-2020 03.25.23
+Report Generation Started 07-32-2020 03.32.29
+Download Completed 07-33-2020 03.33.07
+Report Generation Ended 07-33-2020 03.33.18
+Report Generation Started 07-34-2020 03.34.03
+Download Cancelled 07-34-2020 03.34.47
+Report Generation Ended 07-38-2020 03.38.24
+Report Generation Started 07-39-2020 03.39.42
+Download Cancelled 07-40-2020 03.40.16
+Report Generation Ended 07-40-2020 03.40.25
+Report Generation Started 07-40-2020 03.40.53
+Unable to cast COM object of type 'Microsoft.Office.Interop.Excel.ApplicationClass' to interface type 'Microsoft.Office.Interop.Excel._Application'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{000208D5-0000-0000-C000-000000000046}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA). 07-40-2020 03.40.53
+Unable to cast COM object of type 'Microsoft.Office.Interop.Excel.ApplicationClass' to interface type 'Microsoft.Office.Interop.Excel._Application'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{000208D5-0000-0000-C000-000000000046}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA). 07-40-2020 03.40.53
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Microsoft.Office.Interop.Excel.ApplicationClass.set_Visible(Boolean RHS)
+   at KLOCCounter.MainWindow.DeliveryListGeneration() in E:\Working Dir\KLOC\KLOCCounter\MainWindow.xaml.cs:line 408 07-40-2020 03.40.53
+Report Generation Ended 07-40-2020 03.40.58
+Report Generation Started 07-41-2020 03.41.01
+Unable to cast COM object of type 'Microsoft.Office.Interop.Excel.ApplicationClass' to interface type 'Microsoft.Office.Interop.Excel._Application'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{000208D5-0000-0000-C000-000000000046}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA). 07-41-2020 03.41.01
+Unable to cast COM object of type 'Microsoft.Office.Interop.Excel.ApplicationClass' to interface type 'Microsoft.Office.Interop.Excel._Application'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{000208D5-0000-0000-C000-000000000046}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA). 07-41-2020 03.41.01
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Microsoft.Office.Interop.Excel.ApplicationClass.set_Visible(Boolean RHS)
+   at KLOCCounter.MainWindow.DeliveryListGeneration() in E:\Working Dir\KLOC\KLOCCounter\MainWindow.xaml.cs:line 408 07-41-2020 03.41.01
+Report Generation Ended 07-41-2020 03.41.06
+Report Generation Started 07-41-2020 03.41.11
+Unable to cast COM object of type 'Microsoft.Office.Interop.Excel.ApplicationClass' to interface type 'Microsoft.Office.Interop.Excel._Application'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{000208D5-0000-0000-C000-000000000046}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA). 07-41-2020 03.41.11
+Unable to cast COM object of type 'Microsoft.Office.Interop.Excel.ApplicationClass' to interface type 'Microsoft.Office.Interop.Excel._Application'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{000208D5-0000-0000-C000-000000000046}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA). 07-41-2020 03.41.11
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at Microsoft.Office.Interop.Excel.ApplicationClass.set_Visible(Boolean RHS)
+   at KLOCCounter.MainWindow.DeliveryListGeneration() in E:\Working Dir\KLOC\KLOCCounter\MainWindow.xaml.cs:line 408 07-41-2020 03.41.11
+Report Generation Ended 07-41-2020 03.41.21
+Report Generation Started 07-46-2020 03.46.29
+Download Cancelled 07-47-2020 03.47.03
+Report Generation Ended 07-47-2020 03.47.15
+Report Generation Started 07-48-2020 03.48.11
+Download Cancelled 07-48-2020 03.48.45
+Report Generation Ended 07-48-2020 03.48.47
+Report Generation Started 07-52-2020 03.52.53
+Download Cancelled 07-52-2020 03.52.57
+Report Generation Started 07-09-2020 04.09.31
+Download Cancelled 07-10-2020 04.10.19
+Report Generation Ended 07-10-2020 04.10.19
+Report Generation Started 08-36-2020 07.36.11
+Download Cancelled 08-36-2020 07.36.45
+Report Generation Ended 08-36-2020 07.36.45
+Report Generation Started 08-37-2020 07.37.04
+Download Cancelled 08-37-2020 07.37.39
+Report Generation Ended 08-37-2020 07.37.39
+Report Generation Started 10-30-2020 02.30.34
+Download Completed 10-31-2020 02.31.17
+Report Generation Ended 10-31-2020 02.31.17
+Report Generation Started 10-47-2020 02.47.14
+Download Cancelled 10-47-2020 02.47.52
+Report Generation Ended 10-47-2020 02.47.53
+Report Generation Started 10-58-2020 03.58.03
+Report Generation Started 10-22-2020 04.22.45
+Report Generation Started 11-14-2020 02.14.25
+Download Cancelled 11-15-2020 02.15.07
+Report Generation Ended 11-15-2020 02.15.08
+Report Generation Started 11-05-2020 03.05.36
+Download Completed 11-06-2020 03.06.11
+Report Generation Ended 11-06-2020 03.06.11
+Report Generation Started 13-49-2020 03.49.40
+Report Generation Started 13-50-2020 03.50.50
+Download Cancelled 13-51-2020 03.51.32
+Report Generation Ended 13-51-2020 03.51.32
+Report Generation Started 13-57-2020 03.57.28
+Download Cancelled 13-58-2020 03.58.05
+Report Generation Ended 13-58-2020 03.58.05
+Report Generation Started 13-58-2020 03.58.35
+Download Cancelled 13-59-2020 03.59.13
+Report Generation Ended 13-59-2020 03.59.13
+Report Generation Started 13-07-2020 04.07.01
+Report Generation Started 13-08-2020 04.08.18
+Download Cancelled 13-08-2020 04.08.56
+Report Generation Ended 13-08-2020 04.08.56
+Report Generation Started 13-10-2020 04.10.09
+Report Generation Started 13-11-2020 04.11.01
+Report Generation Started 13-12-2020 04.12.06
+Report Generation Started 13-22-2020 04.22.51
+Report Generation Started 15-14-2020 03.14.30
+Report Generation Started 29-54-2020 03.54.02
+Download Completed 29-54-2020 03.54.51
+Report Generation Ended 29-54-2020 03.54.51
+Report Generation Started 29-47-2020 01.47.09
+Download Completed 29-47-2020 01.47.54
+Report Generation Ended 29-47-2020 01.47.54
+Report Generation Started 29-05-2020 02.05.17
+Download Cancelled 29-05-2020 02.05.50
+Report Generation Ended 29-05-2020 02.05.50
+Report Generation Started 29-07-2020 02.07.58
+Download Completed 29-08-2020 02.08.33
+Report Generation Ended 29-08-2020 02.08.33
+Report Generation Started 29-08-2020 02.08.40
+Download Cancelled 29-09-2020 02.09.23
+Report Generation Ended 29-09-2020 02.09.23
+Report Generation Started 29-14-2020 02.14.52
+Download Cancelled 29-15-2020 02.15.26
+Report Generation Ended 29-15-2020 02.15.26
+Report Generation Started 29-15-2020 02.15.34
+Download Completed 29-16-2020 02.16.08
+Report Generation Ended 29-16-2020 02.16.08
+Report Generation Started 29-19-2020 02.19.48
+Download Cancelled 29-20-2020 02.20.56
+Report Generation Ended 29-20-2020 02.20.56
+Report Generation Started 29-21-2020 02.21.01
+Download Completed 29-21-2020 02.21.36
+Report Generation Ended 29-21-2020 02.21.36
+Report Generation Started 29-26-2020 02.26.12
+Download Completed 29-26-2020 02.26.47
+Report Generation Ended 29-26-2020 02.26.47
+Report Generation Started 29-26-2020 02.26.54
+Download Cancelled 29-27-2020 02.27.28
+Report Generation Ended 29-27-2020 02.27.28
+Report Generation Started 29-05-2020 03.05.18
+Download Cancelled 29-06-2020 03.06.04
+Report Generation Ended 29-06-2020 03.06.04
+Report Generation Started 29-16-2020 03.16.57
+Download Completed 29-17-2020 03.17.34
+Report Generation Ended 29-17-2020 03.17.34
+Report Generation Started 29-00-2020 09.00.49
+Download Completed 29-01-2020 09.01.29
+Report Generation Ended 29-01-2020 09.01.29
+Report Generation Started 29-01-2020 09.01.53
+Download Completed 29-02-2020 09.02.30
+Report Generation Ended 29-02-2020 09.02.30
+Report Generation Started 29-09-2020 09.09.27
+Download Completed 29-11-2020 09.11.06
+Report Generation Ended 29-11-2020 09.11.06
+Report Generation Started 29-11-2020 09.11.08
+Download Completed 29-12-2020 09.12.31
+Report Generation Ended 29-12-2020 09.12.31
+Report Generation Started 29-16-2020 09.16.28
+Download Completed 29-17-2020 09.17.08
+Report Generation Ended 29-17-2020 09.17.08
+Report Generation Started 29-18-2020 09.18.56
+Download Completed 29-20-2020 09.20.36
+Report Generation Ended 29-20-2020 09.20.36
+Report Generation Started 29-21-2020 09.21.24
+Download Completed 29-22-2020 09.22.27
+Report Generation Ended 29-22-2020 09.22.27
+Report Generation Started 29-25-2020 09.25.43
+Download Completed 29-26-2020 09.26.18
+Report Generation Ended 29-26-2020 09.26.18
+Report Generation Started 29-26-2020 09.26.21
+Download Completed 29-27-2020 09.27.03
+Report Generation Ended 29-27-2020 09.27.03
+Report Generation Started 03-56-2020 10.56.35
+Download Completed 03-58-2020 10.58.50
+Report Generation Ended 03-58-2020 10.58.50
+Report Generation Started 04-11-2020 12.11.48
+Download Completed 04-12-2020 12.12.35
+Report Generation Ended 04-12-2020 12.12.36
+Report Generation Started 04-33-2020 12.33.14
+Download Completed 04-33-2020 12.33.22
+Report Generation Ended 04-33-2020 12.33.22
+Report Generation Started 21-44-2020 02.44.39
+Download Completed 21-47-2020 02.47.14
+Report Generation Ended 21-47-2020 02.47.14
+Report Generation Started 11-26-2020 07.26.22
+Value cannot be null.
+Parameter name: source 13-51-2020 11.51.12
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at KLOCCounter.MainWindow.<Counter_Click>d__24.MoveNext() in E:\Working Dir\KLOC_SE\KLOCCounter\MainWindow.xaml.cs:line 195 13-51-2020 11.51.12
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.55
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.55
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.55
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.55
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.56
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.56
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-12-2020 12.12.57
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 523 14-12-2020 12.12.57
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.15
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.15
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.16
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.16
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-14-2020 12.14.17
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-14-2020 12.14.17
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.18
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.18
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Length cannot be less than zero.
+Parameter name: length 14-15-2020 12.15.19
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.GetBetween(String strSource, String strStart, String strEnd) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 524 14-15-2020 12.15.19
+Index and length must refer to a location within the string.
+Parameter name: length 14-35-2020 12.35.25
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at KLOCCounter.ViewModels.ViewModel.ExtractFunctionName(String strSource) 14-35-2020 12.35.25
+Report Generation Started 14-13-2020 03.13.36
+Report Generation Started 14-05-2020 04.05.54
+Download Completed 14-06-2020 04.06.39
+Report Generation Ended 14-06-2020 04.06.40
+Report Generation Started 14-07-2020 04.07.12
+Download Completed 14-07-2020 04.07.37
+Report Generation Ended 14-07-2020 04.07.37
+Report Generation Started 14-21-2020 04.21.29
+Download Completed 14-21-2020 04.21.58
+Report Generation Ended 14-21-2020 04.21.58
+Report Generation Started 14-25-2020 04.25.49
+Download Completed 14-26-2020 04.26.09
+Report Generation Ended 14-26-2020 04.26.09
+Report Generation Started 14-28-2020 04.28.19
+Download Completed 14-28-2020 04.28.39
+Report Generation Ended 14-28-2020 04.28.39
+Report Generation Started 14-31-2020 04.31.06
+Download Completed 14-31-2020 04.31.28
+Report Generation Ended 14-31-2020 04.31.28
+Report Generation Started 14-37-2020 04.37.52
+Download Completed 14-38-2020 04.38.16
+Report Generation Ended 14-38-2020 04.38.17
+Report Generation Started 14-27-2020 10.27.02
+Download Completed 14-27-2020 10.27.46
+Report Generation Ended 14-27-2020 10.27.46
+Report Generation Started 14-51-2020 10.51.07
+Download Completed 14-51-2020 10.51.46
+Report Generation Ended 14-51-2020 10.51.46
+Report Generation Started 14-07-2020 11.07.58
+Report Generation Started 14-10-2020 11.10.13
+Download Completed 14-10-2020 11.10.48
+Report Generation Ended 14-10-2020 11.10.48
+Report Generation Started 14-16-2020 11.16.40
+Download Completed 14-17-2020 11.17.14
+Report Generation Ended 14-17-2020 11.17.14
+Report Generation Started 14-30-2020 11.30.13
+Download Completed 14-30-2020 11.30.42
+Report Generation Ended 14-30-2020 11.30.42
+Report Generation Started 14-39-2020 11.39.38
+Download Completed 14-40-2020 11.40.31
+Report Generation Ended 14-40-2020 11.40.31
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\DataController - Copy.java'. 15-12-2020 12.12.06
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.06
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\DataController.java'. 15-12-2020 12.12.06
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.06
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\FormdataTable.js'. 15-12-2020 12.12.06
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.06
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\dsvfds\hdfv\DataController - Copy.java'. 15-12-2020 12.12.06
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.06
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\dsvfds\hdfv\DataController.java'. 15-12-2020 12.12.06
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.06
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\dsvfds\hdfv\FormdataTable.js'. 15-12-2020 12.12.06
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.06
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\DataController - Copy.java'. 15-12-2020 12.12.16
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.16
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\DataController.java'. 15-12-2020 12.12.16
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.16
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\FormdataTable.js'. 15-12-2020 12.12.16
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.16
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\dsvfds\hdfv\DataController - Copy.java'. 15-12-2020 12.12.16
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.16
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\dsvfds\hdfv\DataController.java'. 15-12-2020 12.12.16
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.16
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\dsvfds\hdfv\FormdataTable.js'. 15-12-2020 12.12.16
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) 15-12-2020 12.12.16
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\DataController.java'. 15-30-2020 12.30.01
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 156 15-30-2020 12.30.01
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\FormdataTable.js'. 15-30-2020 12.30.01
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 156 15-30-2020 12.30.01
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\foo1\DataController.java'. 15-36-2020 12.36.21
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.21
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\foo1\FormdataTable.js'. 15-36-2020 12.36.21
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.21
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\without_tag\DataController.java'. 15-36-2020 12.36.21
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.21
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\without_tag\FormdataTable.js'. 15-36-2020 12.36.21
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.21
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\foo1\DataController.java'. 15-36-2020 12.36.35
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.35
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\foo1\FormdataTable.js'. 15-36-2020 12.36.35
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.35
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\without_tag\DataController.java'. 15-36-2020 12.36.35
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.35
+Could not find a part of the path 'C:\Users\vinor\Desktop\foo\without_tag\without_tag\FormdataTable.js'. 15-36-2020 12.36.35
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 160 15-36-2020 12.36.35
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-45-2020 12.45.07
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-45-2020 12.45.07
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-45-2020 12.45.12
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-45-2020 12.45.12
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-45-2020 12.45.41
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-45-2020 12.45.41
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-45-2020 12.45.41
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-45-2020 12.45.41
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-46-2020 12.46.29
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-46-2020 12.46.29
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-46-2020 12.46.29
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-46-2020 12.46.29
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-50-2020 12.50.36
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-50-2020 12.50.36
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-50-2020 12.50.36
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-50-2020 12.50.36
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-51-2020 12.51.12
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-51-2020 12.51.12
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-51-2020 12.51.12
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-51-2020 12.51.12
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-52-2020 12.52.58
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-52-2020 12.52.58
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-52-2020 12.52.58
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-52-2020 12.52.58
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-53-2020 12.53.23
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-53-2020 12.53.23
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-53-2020 12.53.23
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-53-2020 12.53.23
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\DataController.java' because it is being used by another process. 15-53-2020 12.53.55
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-53-2020 12.53.55
+The process cannot access the file 'C:\Users\vinor\Desktop\foo\FormdataTable.js' because it is being used by another process. 15-53-2020 12.53.55
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at KLOCCounter.ViewModels.ViewModel.RemoveComments(String file, String path) in E:\Working Dir\KLOC_SE\KLOCCounter\ViewModels\ViewModel.cs:line 164 15-53-2020 12.53.55
+Report Generation Started 15-14-2020 01.14.51
+Download Completed 15-16-2020 01.16.21
+Report Generation Ended 15-16-2020 01.16.22
+Report Generation Started 15-24-2020 01.24.10
+Download Completed 15-25-2020 01.25.42
+Report Generation Ended 15-25-2020 01.25.42

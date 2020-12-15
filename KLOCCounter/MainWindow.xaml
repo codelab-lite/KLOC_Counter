@@ -1,0 +1,321 @@
+﻿<!-- 
+/***   NAME		  = MainWindow.xaml   									                        	***/
+/***   FUNCTION	  = Main application window                                        		    		***/
+/***   HISTORY    = Vinoth N,  Initial Version                                                ***/
+-->
+<Window x:Class="KLOCCounter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KLOCCounter"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:toolkit="http://schemas.microsoft.com/wpf/2008/toolkit"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="PRS Generator Tool" MinHeight="740" MinWidth="1300" Icon="image/Questico.ico">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#c8decb" Offset="0"/>
+            <GradientStop Color="#c8decb" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="25" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="12" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="31*" />
+            <ColumnDefinition Width="17*" />
+            <ColumnDefinition Width="17*" />
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="20*" />
+            <ColumnDefinition Width="80" />
+            <ColumnDefinition Width="20" />
+        </Grid.ColumnDefinitions>
+
+        <!--Header border Section-->
+        <Border Grid.Row="5" Grid.ColumnSpan="9"  Grid.RowSpan="5" Margin="10,15,10,-10" BorderThickness="2" CornerRadius="10" BorderBrush="Transparent">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Wheat" Offset="0"/>
+                    <GradientStop Color="Wheat" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+
+        <!--Header Section-->
+        <Label Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="6">
+            <Image gif:ImageBehavior.AnimatedSource="Image/cooltext1.png" Visibility="Visible" Height="30" Width="150"  HorizontalAlignment="Left"  />
+        </Label>
+      
+        <Border Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="6" Grid.RowSpan="3" BorderThickness="2" CornerRadius="10,10,10,10" BorderBrush="Transparent" Margin="13,0,-8,17">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Wheat" Offset="0"/>
+                    <GradientStop Color="#c8decb" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+        <Border Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="2" Grid.RowSpan="3" BorderThickness="2" CornerRadius="10,10,10,10" BorderBrush="Transparent" Margin="13,0,-8,17" ToolTip="Count">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Wheat" Offset="0"/>
+                    <GradientStop Color="#c8decb" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+        <Label Grid.Row="3" Grid.Column="6" Content="Lines Of Code"  FontSize="14" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <TextBlock Style="{DynamicResource FontDigital}" Name="tbk_counter" Grid.Row="4" Grid.Column="6" Grid.ColumnSpan="2" ToolTip="Count" ToolTipService.Placement="Top">
+           
+        </TextBlock>
+        <Grid Grid.Row="3" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*" />
+                <ColumnDefinition Width="33*"/>
+                <ColumnDefinition Width="40*" />
+                <ColumnDefinition Width="40*" />
+            </Grid.ColumnDefinitions>
+
+            <!--Project name section-->
+            <Label Grid.Row="0" Grid.Column="0" Content="Project Name"  FontSize="14" Grid.ColumnSpan="2" />
+            <TextBox Grid.Row="1" Grid.Column="0" x:Name="t_ProjectName" Foreground="Green" Margin="5,0,5,5" FontSize="14" FontWeight="Bold" Text="log analyzer" Grid.ColumnSpan="2"  Height="30" VerticalAlignment="Bottom"/>
+            <TextBlock  Grid.Row="1" Grid.Column="0" IsHitTestVisible="False" Text="Enter Project Name Here..." VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,17,0,18" Foreground="DarkGray">
+                <TextBlock.Style>
+                    <Style TargetType="{x:Type TextBlock}">
+                        <Setter Property="Visibility" Value="Collapsed"/>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding Text, ElementName=TextBoxPO}" Value="">
+                                <Setter Property="Visibility" Value="Visible"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+
+            <!--PO Tag section-->
+            <Label Grid.Row="0" Grid.Column="2" Content="Keyword (PO Tag)" FontSize="14"/>
+            <TextBox Grid.Row="1" Grid.Column="2" x:Name="t_POTag" Foreground="Green" Margin="5,0,5,5" FontSize="14" FontWeight="Bold" Text="B2D960"/>
+            <TextBlock  Grid.Row="1" Grid.Column="2" IsHitTestVisible="False" Text="Enter PO Tag Here..." VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,17,0,18" Foreground="DarkGray">
+                <TextBlock.Style>
+                    <Style TargetType="{x:Type TextBlock}">
+                        <Setter Property="Visibility" Value="Collapsed"/>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding Text, ElementName=TextBoxPO}" Value="">
+                                <Setter Property="Visibility" Value="Visible"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+            <!--Reason for change-->
+            <Label Grid.Row="0" Grid.Column="3" Content="Reason for change" FontSize="14"/>
+            <TextBox Grid.Row="1" Grid.Column="3" x:Name="t_Reason" IsEnabled="True" Margin="5,0,5,5" FontSize="14" FontWeight="Bold" Text="test run"/>
+        </Grid>
+
+        <!--Browese the folder location-->
+        <Label Grid.Row="3" Grid.Column="3" Content="Browse the Location" FontSize="14" Grid.ColumnSpan="3"/>
+        <TextBox Grid.Row="4" Grid.Column="3" x:Name="t_Location" IsEnabled="True" Margin="5,0,5,5" FontSize="14" FontWeight="Bold" Text="C:\Users\vinor\Desktop\foo" Grid.ColumnSpan="3"/>
+        <Button Grid.Row="4" x:Name="ButtonSearch" Grid.Column="4" Content="..." Background="Bisque" Height="25" Width="40" HorizontalAlignment="Right"  Click="ButtonSearch_Click" Margin="0,0,0,5" BorderBrush="AliceBlue" Grid.ColumnSpan="2"/>
+        <TextBlock  Grid.Row="4" Grid.Column="3" IsHitTestVisible="False" Text="Select Source Folder Here..." VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,15,0,15" Foreground="DarkGray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=TextboxCheckPo}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <!--logo section-->
+        <Border Grid.Row="1" Grid.Column="6" Grid.ColumnSpan="2"  Grid.RowSpan="1" BorderThickness="0" CornerRadius="10,10,10,10" BorderBrush="Black">
+            <Image gif:ImageBehavior.AnimatedSource="Image/Quest_Global_logo.png" Visibility="Hidden" Height="60" Width="150" x:Name="logo"  Grid.Column="0" VerticalAlignment="top" HorizontalAlignment="Right" Margin="0,-15,0,-50"  />
+        </Border>
+
+        <!--Error Display Section-->
+
+        <!--Header border Section-->
+        <!--<Border Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2" Background="Transparent" BorderThickness="1" CornerRadius="0" BorderBrush="Blue"/>-->
+
+        <toolkit:DataGrid IsReadOnly="True" 
+                          MouseLeftButtonUp="DataGrid_MouseDoubleClick"
+                          MouseDoubleClick="Open_File"
+                          Grid.Row="6" 
+                          Grid.Column="1" 
+                          Grid.RowSpan="2" 
+                          Grid.ColumnSpan="2" 
+                          x:Name="counterGrid" 
+                          CanUserAddRows="False" 
+                          AutoGenerateColumns="False" 
+                          FontSize="14" 
+                          VerticalAlignment="Top" 
+                          SelectionMode="Single" 
+                          AlternationCount="1" 
+                          Margin="0,0,0,0" 
+                          Background="Beige"
+                          BorderBrush="AliceBlue">
+            <toolkit:DataGrid.Columns>
+                <toolkit:DataGridTextColumn Header="Sl.No" Binding="{Binding Total}" />
+                <toolkit:DataGridTextColumn Header="File Name" Binding="{Binding FileName}" />
+                <toolkit:DataGridTextColumn Header="Function Name" Binding="{Binding FunctionName}" />
+                <toolkit:DataGridTextColumn Header="Description" Binding="{Binding Description}" />
+                <toolkit:DataGridTextColumn Header="lines of code" Binding="{Binding AllCount}" />
+            </toolkit:DataGrid.Columns>
+        </toolkit:DataGrid>
+
+        <TabControl Grid.Row="6" Grid.Column="3" Grid.RowSpan="2" Grid.ColumnSpan="4"  Name="MainTab" BorderBrush="AliceBlue">
+            <TabItem Header="Function Details" TabIndex="0">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FFBEF5EB" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <ListView  BorderBrush="AliceBlue" 
+                              ItemsSource="{Binding Path=DetailCollection}" 
+                              x:Name="l_FunctionDetail"   
+                              AlternationCount="{Binding Path=ErrorCollection.Count}"
+                              Foreground="Black" SelectionMode="Multiple">
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem" BasedOn="{StaticResource MaterialDesignListBoxItem}">
+                            <Style.Triggers>
+                                <Trigger Property="IsSelected" Value="True" >
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="FontSize" Value="12" />
+                                    <Setter Property="Foreground" Value="Blue" />
+                                    <Setter Property="Padding" Value="5"/>
+                                    <Setter Property="Background" Value="#e3fbf7"/>
+                                    <Setter Property="FocusVisualStyle" Value="{DynamicResource MyFocusVisual}"/>
+                                </Trigger>
+                                <Trigger Property="IsSelected" Value="false" >
+                                    <Setter Property="FontSize" Value="12" />
+                                    <Setter Property="Padding" Value="3"/>
+                                    <Setter Property="FontWeight" Value="SemiBold" />
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                </ListView>
+            </TabItem>
+            <!--<TabItem Header="Defects" TabIndex="0">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FFBEF5EB" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <ScrollViewer>
+                    <ListView  BorderBrush="DarkSalmon" 
+                              ItemsSource="{Binding ErrorCollection}" 
+                              x:Name="l_PODetails"   
+                              Background="#fbe6e8" 
+                              SelectionMode="Multiple"
+                              ScrollViewer.VerticalScrollBarVisibility="Auto">
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem" BasedOn="{StaticResource MaterialDesignListBoxItem}">
+                                <Style.Triggers>
+                                    <Trigger Property="IsSelected" Value="True" >
+                                        <Setter Property="FontWeight" Value="Bold" />
+                                        <Setter Property="FontSize" Value="12" />
+                                        <Setter Property="Foreground" Value="Blue" />
+                                        <Setter Property="Padding" Value="5"/>
+                                        <Setter Property="Background" Value="#e3fbf7"/>
+                                        <Setter Property="FocusVisualStyle" Value="{DynamicResource MyFocusVisual}"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="false" >
+                                        <Setter Property="FontSize" Value="12" />
+                                        <Setter Property="Padding" Value="3"/>
+                                        <Setter Property="FontWeight" Value="SemiBold" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                    </ListView>
+                </ScrollViewer>
+            </TabItem>-->
+        </TabControl>
+
+        <!--Status Bar Section-->
+        <DockPanel Grid.Row="8" Grid.Column="1" Grid.ColumnSpan="6">
+            <ProgressBar DockPanel.Dock="Bottom" x:Name="dashboardProgress" Value="0" Height="30" Background="Transparent" BorderBrush="Transparent"/>
+        </DockPanel>
+
+        <!--Status Bar Section-->
+        <DockPanel Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="6">
+            <StatusBar x:Name="Status" DockPanel.Dock="Bottom" Background="Transparent">
+                <Image gif:ImageBehavior.AnimatedSource="Image/Ellipsis.gif" Visibility="Collapsed" Height="30" Width="30" x:Name="loading" Margin="0,-5,0,0"/>
+                <StatusBarItem Foreground="Black">
+                    <Label x:Name="counterStatus"  FontWeight="Bold" Margin="0,-5,0,0"/>
+                </StatusBarItem>
+            </StatusBar>
+        </DockPanel>
+
+        <!--Run and Export-->
+        <Grid Grid.Row="6" Grid.Column="7" Grid.ColumnSpan="2" Grid.RowSpan="2" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40" />
+                <RowDefinition Height="60" />
+                <RowDefinition Height="70" />
+                <RowDefinition Height="60" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="80" />
+            </Grid.RowDefinitions>
+            <Button Background="Black" Cursor="Hand" Grid.Row="1" Grid.Column="0" Height="50" Margin="-10,0,0,0" x:Name="b_Counter" Width="50" FontWeight="Bold"  HorizontalContentAlignment="Center" Click="Counter_Click"  Style="{DynamicResource CircleButton}" VerticalAlignment="Top">
+                <Ellipse Height="50" Width="50">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="Image/st.png"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+            </Button>
+            <!--<Button Cursor="Hand" Background="Black" Grid.Row="3" Grid.Column="0" Height="50" Margin="-10,0,0,0" x:Name="b_Cancel" Width="50" FontWeight="Bold" HorizontalContentAlignment="Center" Click="b_Cancel_Click"  Style="{DynamicResource CircleButton}">
+                <Ellipse Height="50" Width="50">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="Image/sop.png"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+            </Button>-->
+            <Button Background="Black" Cursor="Hand" Grid.Row="2" Grid.Column="0" Height="50" Margin="-10,0,0,0" x:Name="b_Clear" Width="50" FontWeight="Bold" HorizontalContentAlignment="Center" Click="Clear_Click"  Style="{DynamicResource CircleButton}">
+                <Ellipse Height="50" Width="50">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="Image/reload.png"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+            </Button>
+            <Button Background="Black" Cursor="Hand" Grid.Row="4" Grid.Column="0" Height="50" Margin="-10,0,0,0" x:Name="b_Download" Width="50" FontWeight="Bold"  HorizontalContentAlignment="Center" Click="Download_Click"  Style="{DynamicResource CircleButton}" VerticalAlignment="Bottom">
+                <Ellipse Height="50" Width="50">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="Image/download.png"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+            </Button>
+        </Grid>
+        <!--<Grid Grid.Row="9" Grid.Column="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        </Grid>-->
+        <!--Footer Section-->
+        <Label Grid.Row="10" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="7" Content="Version 2.0 © realvino. 2020. All rights reserved." HorizontalContentAlignment="Right" Margin="0,5,15,0"></Label>
+        <Image Grid.Row="6" Grid.Column="5" Grid.ColumnSpan="2" gif:ImageBehavior.AnimatedSource="Image/Load.gif"  Width="50" Height="50" Visibility="Collapsed" x:Name="Loadgif" VerticalAlignment="Center" Margin="5,116,130,76" />
+    </Grid>
+</Window>

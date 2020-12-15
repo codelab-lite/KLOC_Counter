@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<RuleSet Name="All Rules Enabled with default severity" Description="All Rules are enabled with default severity. Rules with IsEnabledByDefault = false are force enabled with default severity." ToolsVersion="15.0">
+</RuleSet>
